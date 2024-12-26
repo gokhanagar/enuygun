@@ -58,7 +58,6 @@ public class Hooks {
 
         }
 
-        BrowserUtils.waitFor(2);
         Driver.closeDriver();
 
     }

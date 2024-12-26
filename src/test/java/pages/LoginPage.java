@@ -48,7 +48,6 @@ public class LoginPage extends BasePage {
         sifreTextArea.sendKeys(password);
         clickWithJS(girisYapButton);
         waitForVisibility(userName,5);
-        System.out.println(userName.getText());
 
         Assert.assertTrue(userName.isDisplayed());
 

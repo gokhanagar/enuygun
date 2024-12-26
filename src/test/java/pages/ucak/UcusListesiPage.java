@@ -18,31 +18,4 @@ public class UcusListesiPage extends BasePage {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
